@@ -13,6 +13,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioFD&theme=great-gatsby&hide_border=true&background=EB545400" /></p>
 </div>
 
+<!--Gráfico-->
+![CaioFD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioFD&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
 ##
 
 <div align="center">
