@@ -35,14 +35,11 @@
 ## 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me>
 
- <h2 align="center">Você pode me contatar por aqui:</h2>
+ <h2 align="center">Contate-me também por:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/caio-diniz-629933235/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="caio" height="30"/></a>
-      <a href="caiodiniz200204@gmail.com@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="caio" height="30"/></a>
     </p>
   <p align="center">
