@@ -1,4 +1,7 @@
-<h2 align="center">Olá! sou o Caio Diniz👋</h2>
+<h3 align="center">
+ Olá sou o Caio Diniz
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 
 - 🥇 1° período de Ciência da Computação.
@@ -16,7 +19,7 @@
 <!--Gráfico-->
 ![CaioFD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioFD&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
-##
+## 🛠  Tech Stack
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"                   height="30" width="42" alt="C logo"  />
@@ -27,7 +30,8 @@
 
 </div>
 
-##
+## 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me>
 
 <div align="center">
   <a href="https://www.instagram.com/caiofd13/" target="_blank">
