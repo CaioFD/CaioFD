@@ -37,9 +37,7 @@
   <a href="https://www.instagram.com/caiofd13/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-   <a href="caiodiniz200204@gmail.com" target="_blank">
-   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-     height="35" alt="Gmail logo"  />
+  
   </a>
   <a href="https://www.linkedin.com/in/caio-diniz-629933235/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
