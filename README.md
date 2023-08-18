@@ -12,14 +12,23 @@
 
 ##
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&username=CaioFD" height="150"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&username=CaioFD" height="150"   />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&username=CaioFD" height="150"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&username=CaioFD" height="150"   />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioFD&theme=great-gatsby&hide_border=true&background=EB545400" /></p>
-</div>
+</div
+
+
+
+
+
+
+
+
 
 <!--Gráfico-->
-
+![CaioFD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioFD&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 ## 🛠  Tech Stack
 
