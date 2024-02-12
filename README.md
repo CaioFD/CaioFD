@@ -7,7 +7,7 @@
 
 
 - 🥇 2° período de Ciência da Computação.
-- 🌱 Estudando C e C++.
+- 🌱 Estudando C, C++ e Java.
 - 📫 Contate-me no email: caiodiniz200204@gmail.com.
 
 ##
