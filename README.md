@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=435&lines=Olá!+me+chamo+Caio+Diniz;Sou+estudante+de;Ciência+da+Computação" alt="Typing SVG" /></a>
 
 
-- 🥇 2° período de Ciência da Computação.
+- 🥇 3° período de Ciência da Computação.
 - 🌱 Estudando C, C++ e Java.
 - 📫 Contate-me no email: caiodiniz200204@gmail.com.
 
