@@ -4,17 +4,16 @@
 </div>
 
 # Caio Diniz
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/caio-diniz-629933235/)
 
 
  ## Bem Vindo à meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- 
-
 
 
 Sou um desenvolvedor entusiasta de tecnologia, com um forte compromisso em criar soluções inovadoras e de impacto. Com uma base sólida em programação e uma curiosidade constante, estou sempre em busca de novos desafios que ampliem meu conhecimento e habilidades. Acredito que o código tem o poder de transformar ideias em realidade, e estou motivado a contribuir para projetos que gerem mudanças positivas. Vamos colaborar e construir algo notável!
 
-## 🚀 Habilidades Técnicas
+##  🛠  Tech Stack
+
 
 - Linguagens de Programação: 
 
