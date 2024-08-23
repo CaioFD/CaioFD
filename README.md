@@ -33,6 +33,5 @@ Sou um desenvolvedor entusiasta de tecnologia, com um forte compromisso em criar
 
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
+- [Projeto 1](https://github.com/CaioFD/Meus-Projetos/tree/main): Meus Projetos de desenvolvimento Web Front e Back end.
+
