@@ -28,7 +28,7 @@
 
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,discord)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord)](https://skillicons.dev)
   
 - Desenvolvimento Web:
 
