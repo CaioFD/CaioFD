@@ -10,7 +10,10 @@
  ## Bem Vindo à meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 
-Sou um desenvolvedor entusiasta de tecnologia, com um forte compromisso em criar soluções inovadoras e de impacto. Com uma base sólida em programação e uma curiosidade constante, estou sempre em busca de novos desafios que ampliem meu conhecimento e habilidades. Acredito que o código tem o poder de transformar ideias em realidade, e estou motivado a contribuir para projetos que gerem mudanças positivas. Vamos colaborar e construir algo notável!
+- 🥇 3° período de Ciência da Computação.
+- 🌱 Estudando C, C++ e Java.
+- 📫 Contate-me no email: caiodiniz200204@gmail.com.
+
 
 ##  🛠  Tech Stack
 
