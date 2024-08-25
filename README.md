@@ -24,11 +24,11 @@
   
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,angular,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,react,angular)](https://skillicons.dev)
 
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,discord,figma)](https://skillicons.dev)
   
 - Desenvolvimento Web:
 
