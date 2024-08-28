@@ -24,7 +24,7 @@
   
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,angular,bootstrap)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,angular,bootstrap)](https://skillicons.dev)
 
 - Ferramentas e Tecnologias: 
 
