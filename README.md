@@ -39,8 +39,8 @@
 
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/CaioFD/Meus-Projetos/tree/main): Meus Projetos de desenvolvimento Web Front e Back end.
-- 
+- [TI1 - GoPlay](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20222-01-procurar-pessoas-para-esportes): Projeto Web feito para encontrar pessoas com os mesmos interesses esportivos, para que possamos conectar as pessoas com as mesmas predileções.
+- [TI2 - MoveSmart](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti2-2024-1-g02-movesmart): Projeto web buscando aprimorar da experiência do usuário no transporte público, com foco em desenvolvimento do back-end.. 
  ## 🔗 Links
 
 - [Linkedin](https://www.linkedin.com/in/caiofdiniz/)
