@@ -3,17 +3,11 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="400">
 </div>
 
-<div align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=CaioFD&label=Profile%20Views&color=0&icon=5&pretty=false" />
-    </a>
-  </div>
-
 
  ## Bem Vindo à meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 
-- 🥇 3° período de Ciência da Computação.
+- 🥇 4° período de Ciência da Computação.
 - 🌱 Estudando C, C++ e Java.
 - 📫 Contate-me no email: caiodiniz200204@gmail.com.
 
