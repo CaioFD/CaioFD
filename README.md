@@ -8,7 +8,7 @@
 
 
 - 🥇 4° período de Ciência da Computação.
-- 🌱 Estudando C, C++ e Java.
+- 🌱 Possuo interesse em desenvolvimento de software, com foco em inteligência artificial e ciência de dados, explorando soluções inovadoras e eficientes para   desafios tecnológicos.
 - 📫 Contate-me no email: caiodiniz200204@gmail.com.
 
 
