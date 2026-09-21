@@ -7,7 +7,7 @@
  ## Bem Vindo à meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 
-- 🥇 6° período de Ciência da Computação.
+- 🥇 7° período de Ciência da Computação.
 - 🌱 Possuo interesse em desenvolvimento de software, com foco em inteligência artificial e ciência de dados, explorando soluções inovadoras e eficientes para   desafios tecnológicos.
 - 📫 Contate-me no email: caiodiniz200204@gmail.com.
 
