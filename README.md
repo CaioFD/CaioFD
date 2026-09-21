@@ -5,9 +5,8 @@
 
  ## Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 🎓 7th semester of Computer Science
-- ✈️ Currently on an exchange program in Paris at EPITECH
-- 🥇 7th semester of Computer Science.
+- 🎓 7th semester of Computer Science at PUC Minas
+- ✈️ Currently on an exchange program at EPITECH Paris!
 - 🌱 I have an interest in software development, with a focus on artificial intelligence and data science, exploring innovative and efficient solutions for technological challenges.
 - 📫 Contact me at: caiodiniz200204@gmail.com.
 
