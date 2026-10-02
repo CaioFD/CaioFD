@@ -34,6 +34,9 @@
 
 - [TI1 - GoPlay](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20222-01-procurar-pessoas-para-esportes): A web project built to find people with the same sporting interests, so we can connect people with similar preferences.
 - [TI2 - MoveSmart](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti2-2024-1-g02-movesmart): A web project aiming to improve the user experience in public transportation, with a focus on back-end development.
+- [TI4 - Echoes of Eldra](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti4-2025-1-g03-echoes-of-eldra): A tactical roguelike game featuring adaptive AI and procedurallygenerated
+mazes.
+- [Image design and analysis](https://github.com/CaioFD/PAI):  A desktop application for BIRADS-classified mammogram analysis, featuring automatic breast segmentation, ResNet-18 and EfficientNet classification, model evaluation, and Grad-CAM visualizations in a Tkinter interface.
  ## 🔗 Links
 
 - [Linkedin](https://www.linkedin.com/in/caiofdiniz/)
